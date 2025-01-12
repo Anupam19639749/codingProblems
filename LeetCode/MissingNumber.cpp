@@ -29,6 +29,6 @@ int main()
 {
     Solution sol;
     vector<int> nums = {3, 0, 1};
-    cout << "The missing number is: " << sol.missingNumber(nums) << std::endl;
+    cout << "The missing number is: " << sol.missingNumber(nums) << endl;
     return 0;
 }
