@@ -31,7 +31,7 @@ int main()
     string b;
 
     // Take input/test case from the user
-    cout << "\n Enter the 1st and the 2nd binart=y string to add: ";
+    cout << "\n Enter the 1st and the 2nd binary string to add: ";
     cin >> a >> b;
 
     // Displaying the final sum of the binary strings which user has provided
