@@ -29,7 +29,11 @@ int main()
     string s2 = "egg";
     string t2 = "add";
 
+    string s3 = "Anupam";
+    string t3 = "Anurag";
+
     cout << "The given strings are anagram of each other: " << isAnagram(s1, t1) << endl;
     cout << "The given strings are anagram of each other: " << isAnagram(s2, t2) << endl;
+    cout << "The given strings are anagram of each other: " << isAnagram(s3, t3) << endl;
     return 0;
 }
