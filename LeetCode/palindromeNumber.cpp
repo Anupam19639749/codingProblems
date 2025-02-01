@@ -13,7 +13,7 @@ Output: false
 Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
 */
 
-#include <iostream> // Include input-output stream library
+#include <iostream>
 using namespace std;
 
 // Class definition for the solution
